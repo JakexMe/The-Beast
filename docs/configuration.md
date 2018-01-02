@@ -15,7 +15,7 @@
 <!-- or data-* -->
 <script
   src="//unpkg.com/docsify"
-  data-repo="QingWei-Li/docsify"
+  data-repo="JakexMe/The-Beast"
   data-max-level="3"
   data-coverpage>
 </script>
